@@ -1,4 +1,4 @@
-# Face Emotion Counter 🎭
+# Face Emotion Counter 
 
 Real-time face detection + deep learning emotion recognition using your webcam.
 
